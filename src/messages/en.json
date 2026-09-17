@@ -1,0 +1,109 @@
+{
+  "nav": {
+    "about": "About",
+    "experience": "Experience & EdTech",
+    "projects": "Projects",
+    "skills": "Skills",
+    "contact": "Contact"
+  },
+  "hero": {
+    "role": "English Language Trainer & EdTech Creator",
+    "secondaryRole": "Also building as a Frontend / Full-Stack Developer",
+    "subtitle": "Empowering adults and teams to speak English fluently with tailored learning systems, interactive platforms, and real-world conversational practice.",
+    "ctaPrimary": "Explore English Courses / Platform",
+    "ctaSecondary": "Contact Me"
+  },
+  "about": {
+    "title": "About Me",
+    "lead": "I am passionate about English teaching and modern, speaking-first methodologies that help adults gain real confidence.",
+    "p1": "My journey combines language education with a technical background as a Full-Stack developer — so I can design custom digital classrooms and learning experiences that feel personal, clear, and effective.",
+    "p2": "I currently focus on professional English for real-life roles: hospitality, sports, service industry, and barbering — vocabulary and scenarios people actually use at work.",
+    "highlights": {
+      "certified": "B2 Upper-Intermediate certified (Green Forest, Grade A)",
+      "tech": "Full-Stack developer building custom EdTech platforms",
+      "focus": "Professional English for hospitality, sports & services"
+    }
+  },
+  "experience": {
+    "title": "Experience & EdTech",
+    "lead": "Custom digital learning platforms, speaking-focused methodology, and professional English for hospitality, sports, and services.",
+    "items": [
+      {
+        "title": "Speaking-first methodology",
+        "desc": "Conversational drills, role-plays, and confidence-building practice designed for adult learners."
+      },
+      {
+        "title": "Custom digital classrooms",
+        "desc": "Interactive roadmaps, vocabulary with audio/IPA, grammar practice, and progress tracking."
+      },
+      {
+        "title": "Industry-tailored English",
+        "desc": "Curricula adapted for hospitality, sports teams, service roles, and barbering professionals."
+      }
+    ]
+  },
+  "projects": {
+    "title": "Featured Projects",
+    "lead": "EdTech platforms and full-stack products that turn learning into an interactive experience.",
+    "featured": "Flagship",
+    "demo": "Live Demo",
+    "view": "View Project",
+    "items": [
+      {
+        "name": "English Simple Trainer",
+        "desc": "Custom interactive SPA teaching platform with roadmaps, vocabulary with audio/IPA, grammar drills, homework check & progress tracking.",
+        "tech": ["React", "Next.js", "Firebase", "Tailwind CSS"]
+      },
+      {
+        "name": "Tugonn",
+        "desc": "International collaborative web application built as a full-stack product for teams across borders.",
+        "tech": ["Next.js", "TypeScript", "Node.js", "MongoDB"]
+      }
+    ]
+  },
+  "skills": {
+    "title": "Skills & Tech Stack",
+    "lead": "Teaching craft meets modern web development.",
+    "categories": [
+      {
+        "title": "Teaching & Pedagogy",
+        "items": ["A1–B1 Level Training", "Speaking-first Drills", "Custom Curriculum Design", "Professional Vocabulary Adaptation"]
+      },
+      {
+        "title": "EdTech & Development",
+        "items": ["React", "Next.js", "TypeScript", "JavaScript", "Tailwind CSS", "Firebase", "REST APIs", "Git / GitHub"]
+      },
+      {
+        "title": "Languages",
+        "items": ["Ukrainian — Native", "English — B2 Upper-Intermediate", "Italian — Beginner", "Japanese — Beginner"]
+      }
+    ]
+  },
+  "certificates": {
+    "title": "Certificates & Education",
+    "items": [
+      {
+        "title": "Upper-Intermediate B2 English Course",
+        "org": "Green Forest",
+        "meta": "Grade A · 2025"
+      },
+      {
+        "title": "Frontend Development",
+        "org": "Beetroot Academy",
+        "meta": "2024"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Let's Connect",
+    "lead": "Open for English training collaborations, EdTech projects, and professional language programs.",
+    "email": "Email",
+    "telegram": "Telegram",
+    "phone": "Phone",
+    "github": "GitHub",
+    "cta": "Send a message"
+  },
+  "footer": {
+    "rights": "All rights reserved."
+  }
+}

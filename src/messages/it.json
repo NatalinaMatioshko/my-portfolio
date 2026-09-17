@@ -1,0 +1,138 @@
+{
+  "nav": {
+    "about": "Chi sono",
+    "experience": "Esperienza & EdTech",
+    "projects": "Progetti",
+    "skills": "Competenze",
+    "contact": "Contatti"
+  },
+  "hero": {
+    "role": "Formatrice di inglese e creatrice EdTech",
+    "secondaryRole": "Anche sviluppatrice Frontend / Full-Stack",
+    "subtitle": "Aiuto adulti e team a parlare inglese con fluidita grazie a sistemi di apprendimento su misura, piattaforme interattive e pratica conversazionale reale.",
+    "ctaPrimary": "Scopri corsi / piattaforma",
+    "ctaSecondary": "Contattami"
+  },
+  "about": {
+    "title": "Chi sono",
+    "lead": "Sono appassionata dell'insegnamento dell'inglese e di metodologie moderne orientate al parlato, che aiutano gli adulti a guadagnare vera sicurezza.",
+    "p1": "Il mio percorso unisce l'educazione linguistica a un background tecnico da sviluppatrice Full-Stack — cosi posso creare aule digitali e esperienze formative personali, chiare ed efficaci.",
+    "p2": "Oggi mi concentro sull'inglese professionale per ruoli reali: hospitality, sport, servizi e barbering — vocabolario e scenari che le persone usano davvero al lavoro.",
+    "highlights": {
+      "certified": "Certificata B2 Upper-Intermediate (Green Forest, Grade A)",
+      "tech": "Sviluppatrice Full-Stack di piattaforme EdTech personalizzate",
+      "focus": "Inglese professionale per hospitality, sport e servizi"
+    }
+  },
+  "experience": {
+    "title": "Esperienza & EdTech",
+    "lead": "Piattaforme digitali personalizzate, metodologia speaking-first e inglese professionale per hospitality, sport e servizi.",
+    "items": [
+      {
+        "title": "Metodologia speaking-first",
+        "desc": "Drill conversazionali, role-play e pratica di fiducia progettati per adulti."
+      },
+      {
+        "title": "Aule digitali su misura",
+        "desc": "Roadmap interattive, vocabolario con audio/IPA, esercizi di grammatica e monitoraggio dei progressi."
+      },
+      {
+        "title": "Inglese settoriale",
+        "desc": "Curricula adattati per hospitality, team sportivi, servizi e professionisti del barbering."
+      }
+    ]
+  },
+  "projects": {
+    "title": "Progetti in evidenza",
+    "lead": "Piattaforme EdTech e prodotti full-stack che trasformano l'apprendimento in un'esperienza interattiva.",
+    "featured": "Flagship",
+    "demo": "Demo live",
+    "view": "Vedi progetto",
+    "items": [
+      {
+        "name": "English Simple Trainer",
+        "desc": "Piattaforma SPA interattiva con roadmap, vocabolario con audio/IPA, esercizi di grammatica, controllo compiti e tracking dei progressi.",
+        "tech": [
+          "React",
+          "Next.js",
+          "Firebase",
+          "Tailwind CSS"
+        ]
+      },
+      {
+        "name": "Tugonn",
+        "desc": "Applicazione web collaborativa internazionale costruita come prodotto full-stack per team internazionali.",
+        "tech": [
+          "Next.js",
+          "TypeScript",
+          "Node.js",
+          "MongoDB"
+        ]
+      }
+    ]
+  },
+  "skills": {
+    "title": "Competenze & stack",
+    "lead": "Pedagogia e sviluppo web moderno insieme.",
+    "categories": [
+      {
+        "title": "Insegnamento & pedagogia",
+        "items": [
+          "Formazione livelli A1–B1",
+          "Drill speaking-first",
+          "Design di curriculum personalizzati",
+          "Adattamento del vocabolario professionale"
+        ]
+      },
+      {
+        "title": "EdTech & sviluppo",
+        "items": [
+          "React",
+          "Next.js",
+          "TypeScript",
+          "JavaScript",
+          "Tailwind CSS",
+          "Firebase",
+          "REST APIs",
+          "Git / GitHub"
+        ]
+      },
+      {
+        "title": "Lingue",
+        "items": [
+          "Ucraino — Madrelingua",
+          "Inglese — B2 Upper-Intermediate",
+          "Italiano — Principiante",
+          "Giapponese — Principiante"
+        ]
+      }
+    ]
+  },
+  "certificates": {
+    "title": "Certificati & formazione",
+    "items": [
+      {
+        "title": "Upper-Intermediate B2 English Course",
+        "org": "Green Forest",
+        "meta": "Grade A · 2025"
+      },
+      {
+        "title": "Frontend Development",
+        "org": "Beetroot Academy",
+        "meta": "2024"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Restiamo in contatto",
+    "lead": "Aperta a collaborazioni di formazione inglese, progetti EdTech e programmi linguistici professionali.",
+    "email": "Email",
+    "telegram": "Telegram",
+    "phone": "Telefono",
+    "github": "GitHub",
+    "cta": "Invia un messaggio"
+  },
+  "footer": {
+    "rights": "Tutti i diritti riservati."
+  }
+}
