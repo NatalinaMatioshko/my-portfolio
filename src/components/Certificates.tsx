@@ -57,7 +57,7 @@ export function Certificates() {
                     href={pdfFor(item)}
                     target="_blank"
                     rel="noreferrer"
-                    className="mt-4 inline-flex items-center gap-1.5 text-sm font-semibold text-[var(--accent)] transition hover:underline"
+                    className="mt-4 inline-flex items-center gap-1.5 text-sm font-semibold text-[var(--accent)] transition hover:gap-2.5 hover:underline"
                   >
                     {t.certificates.viewPdf}
                     <ExternalLink size={14} />
@@ -92,7 +92,7 @@ export function Certificates() {
                 href={pdfFor(item)}
                 target="_blank"
                 rel="noreferrer"
-                className="mt-auto inline-flex items-center gap-1.5 pt-4 text-sm font-semibold text-[var(--accent)] transition hover:underline"
+                className="mt-auto inline-flex items-center gap-1.5 pt-4 text-sm font-semibold text-[var(--accent)] transition hover:gap-2.5 hover:underline"
               >
                 {t.certificates.viewPdf}
                 <ExternalLink size={14} />

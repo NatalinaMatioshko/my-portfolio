@@ -45,7 +45,7 @@ export function Experience() {
                   whileInView={{ opacity: 1, y: 0 }}
                   viewport={{ once: true, margin: "-40px" }}
                   transition={{ duration: 0.45, delay: index * 0.08 }}
-                  className="glass-card group rounded-2xl p-5 transition hover:-translate-y-0.5 sm:p-6"
+                  className="glass-card group rounded-2xl p-5 sm:p-6"
                 >
                   <span className="inline-flex rounded-xl bg-[var(--accent-soft)] p-2.5 text-[var(--accent)] transition group-hover:scale-105">
                     <Icon size={20} />

@@ -117,7 +117,7 @@ export function Contact() {
                     rel={
                       item.href.startsWith("http") ? "noreferrer" : undefined
                     }
-                    className="group flex items-center gap-4 rounded-2xl border border-[var(--border)] bg-[var(--bg)]/40 p-4 transition hover:border-[var(--accent)]"
+                    className="hover-lift group flex items-center gap-4 rounded-2xl border border-[var(--border)] bg-[var(--bg)]/40 p-4 hover:border-[var(--accent)] hover:bg-[var(--accent-soft)] hover:shadow-[0_10px_28px_rgba(0,0,0,0.12)]"
                   >
                     <span className="rounded-xl bg-[var(--accent-soft)] p-2.5 text-[var(--accent)] transition group-hover:scale-105">
                       <item.icon size={18} />
@@ -136,7 +136,7 @@ export function Contact() {
 
               <a
                 href={`mailto:${SITE.email}`}
-                className="mt-6 inline-flex items-center justify-center rounded-full bg-[var(--accent)] px-6 py-3 text-sm font-semibold text-white transition hover:brightness-110"
+                className="mt-6 inline-flex items-center justify-center rounded-full bg-[var(--accent)] px-6 py-3 text-sm font-semibold text-white transition hover:-translate-y-0.5 hover:brightness-110 hover:shadow-[0_10px_24px_color-mix(in_srgb,var(--accent)_35%,transparent)]"
               >
                 {t.contact.cta}
               </a>

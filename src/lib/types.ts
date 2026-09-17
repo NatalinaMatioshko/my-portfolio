@@ -26,6 +26,10 @@ export type Messages = {
       tech: string;
       focus: string;
     };
+    interests: {
+      title: string;
+      items: { tag: string; desc: string }[];
+    };
   };
   experience: {
     title: string;

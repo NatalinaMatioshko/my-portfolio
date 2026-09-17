@@ -54,5 +54,31 @@ body {
     background: var(--surface);
     box-shadow: var(--card-shadow);
     backdrop-filter: blur(14px);
+    transition:
+      transform 0.25s ease,
+      border-color 0.25s ease,
+      box-shadow 0.25s ease;
+  }
+
+  .glass-card:hover {
+    transform: translateY(-4px);
+    border-color: color-mix(in srgb, var(--accent) 45%, var(--border));
+    box-shadow:
+      var(--card-shadow),
+      0 14px 36px color-mix(in srgb, var(--accent) 12%, transparent);
+  }
+
+  .hover-lift {
+    transition:
+      transform 0.25s ease,
+      border-color 0.25s ease,
+      box-shadow 0.25s ease,
+      color 0.2s ease,
+      background-color 0.2s ease;
+  }
+
+  .hover-lift:hover {
+    transform: translateY(-2px);
+    border-color: color-mix(in srgb, var(--accent) 50%, var(--border));
   }
 }

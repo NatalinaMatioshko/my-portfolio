@@ -57,7 +57,7 @@ export function Header() {
             <a
               key={link.href}
               href={link.href}
-              className="text-sm text-[var(--muted)] transition hover:text-[var(--fg)]"
+              className="text-sm text-[var(--muted)] transition hover:text-[var(--accent)]"
             >
               {t.nav[link.key]}
             </a>

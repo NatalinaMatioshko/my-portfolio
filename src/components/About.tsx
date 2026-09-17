@@ -2,10 +2,21 @@
 
 import Image from "next/image";
 import { motion } from "framer-motion";
-import { Award, Briefcase, Code2 } from "lucide-react";
+import {
+  Award,
+  BookOpen,
+  Briefcase,
+  ChefHat,
+  Code2,
+  Coffee,
+  Dumbbell,
+  Mountain,
+} from "lucide-react";
 import { useLanguage } from "@/context/LanguageContext";
 import { SectionHeading } from "@/components/SectionHeading";
 import { SITE } from "@/lib/contact";
+
+const interestIcons = [Coffee, BookOpen, Mountain, Dumbbell, ChefHat];
 
 export function About() {
   const { t } = useLanguage();
@@ -72,6 +83,41 @@ export function About() {
             </div>
           </div>
         </div>
+
+        <motion.div
+          initial={{ opacity: 0, y: 18 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          viewport={{ once: true, margin: "-40px" }}
+          transition={{ duration: 0.45 }}
+          className="mt-12 border-t border-[var(--border)] pt-10"
+        >
+          <h3 className="mb-5 text-xl font-semibold tracking-tight text-[var(--fg)] sm:text-2xl">
+            {t.about.interests.title}
+          </h3>
+          <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5">
+            {t.about.interests.items.map((item, index) => {
+              const Icon = interestIcons[index] ?? Coffee;
+              return (
+                <article
+                  key={item.tag}
+                  className="glass-card group flex flex-col gap-3 rounded-2xl p-4 sm:p-5"
+                >
+                  <span className="inline-flex w-fit rounded-xl bg-[var(--accent-soft)] p-2.5 text-[var(--accent)] transition group-hover:scale-110">
+                    <Icon size={18} />
+                  </span>
+                  <div>
+                    <p className="text-sm font-semibold text-[var(--fg)]">
+                      {item.tag}
+                    </p>
+                    <p className="mt-1.5 text-xs leading-relaxed text-[var(--muted)] sm:text-sm">
+                      {item.desc}
+                    </p>
+                  </div>
+                </article>
+              );
+            })}
+          </div>
+        </motion.div>
       </div>
     </section>
   );

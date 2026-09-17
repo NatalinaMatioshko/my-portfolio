@@ -4,8 +4,8 @@ export const SITE = {
   phone: "+380995674368",
   phoneHref: "tel:+380995674368",
   location: "Kyiv, Ukraine",
-  telegram: "https://t.me/plutosnero",
-  telegramHandle: "@plutosnero",
+  telegram: "https://t.me/ma.nataliem",
+  telegramHandle: "@ma.nataliem",
   github: "https://github.com/NatalinaMatioshko",
   linkedin: "https://www.linkedin.com/in/natalia-matioshko/",
 } as const;

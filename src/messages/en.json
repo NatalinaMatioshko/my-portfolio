@@ -10,7 +10,7 @@
   "hero": {
     "role": "English Language Trainer & EdTech Creator",
     "secondaryRole": "Also building as a Frontend / Full-Stack Developer",
-    "subtitle": "Empowering adults and teams to speak English fluently with tailored learning systems, interactive platforms, and real-world conversational practice.",
+    "subtitle": "I teach adults English at A1–A2 with tailored individual programs, interactive platforms, and practical conversational practice.",
     "ctaPrimary": "Explore English Courses / Platform",
     "ctaSecondary": "Contact Me"
   },
@@ -18,16 +18,41 @@
     "title": "About Me",
     "lead": "I am passionate about English teaching and modern, speaking-first methodologies that help adults gain real confidence.",
     "p1": "My journey combines language education with a technical background as a Full-Stack developer — so I can design custom digital classrooms and learning experiences that feel personal, clear, and effective.",
-    "p2": "I currently focus on professional English for real-life roles: hospitality, sports, service industry, and barbering — vocabulary and scenarios people actually use at work.",
+    "p2": "Right now I teach adults English (A1–A2) with individual programs. My current practical case is an English course for a barber — working with foreign clients, service vocabulary, and real dialogues. Thanks to my own platform and methodology, I can flexibly adapt materials for any other profession or service field.",
     "highlights": {
       "certified": "B2 Upper-Intermediate certified (Green Forest, Grade A)",
       "tech": "Full-Stack developer building custom EdTech platforms",
-      "focus": "Professional English for hospitality, sports & services"
+      "focus": "Current case: English for a barber (foreign clients & service dialogues)"
+    },
+    "interests": {
+      "title": "Beyond Teaching & Code",
+      "items": [
+        {
+          "tag": "Specialty Coffee",
+          "desc": "I love coffee: brewing it (professional barista experience) and tasting it."
+        },
+        {
+          "tag": "Reading & Books",
+          "desc": "I constantly read and explore new ideas."
+        },
+        {
+          "tag": "Mountains & Hiking",
+          "desc": "Hiking, trekking, and mountain routes."
+        },
+        {
+          "tag": "Fitness & Sport",
+          "desc": "Regular training, running, and staying active."
+        },
+        {
+          "tag": "Good Food & Cooking",
+          "desc": "I enjoy good food and culinary experiments."
+        }
+      ]
     }
   },
   "experience": {
     "title": "Experience & EdTech",
-    "lead": "Custom digital learning platforms, speaking-focused methodology, and professional English for hospitality, sports, and services.",
+    "lead": "Custom digital learning platforms, speaking-first methodology, and individual English programs for adults (A1–A2).",
     "items": [
       {
         "title": "Speaking-first methodology",
@@ -38,8 +63,8 @@
         "desc": "Interactive roadmaps, vocabulary with audio/IPA, grammar practice, and progress tracking."
       },
       {
-        "title": "Industry-tailored English",
-        "desc": "Curricula adapted for hospitality, sports teams, service roles, and barbering professionals."
+        "title": "Profession-adapted English",
+        "desc": "Current practical case: English for a barber. With my platform and method, materials can be adapted for other professions and service fields."
       }
     ]
   },
@@ -57,10 +82,10 @@
       {
         "title": "Teaching & Pedagogy",
         "items": [
-          "A1–B1 Level Training",
+          "A1–A2 Adult Training",
           "Speaking-first Drills",
           "Custom Curriculum Design",
-          "Professional Vocabulary Adaptation"
+          "Profession-specific Vocabulary Adaptation"
         ]
       },
       {
@@ -103,13 +128,13 @@
       {
         "title": "Frontend Development",
         "org": "Beetroot Academy",
-        "meta": "2024",
+        "meta": "2025",
         "featured": true
       },
       {
-        "title": "Full-Stack / IT Bootcamp",
+        "title": "Fullstack Developer Course",
         "org": "GoIT",
-        "meta": "Certificate",
+        "meta": "Completed · 12/02/2025",
         "featured": false
       },
       {
@@ -119,7 +144,7 @@
         "featured": false
       },
       {
-        "title": "Medical English / First Aid Course",
+        "title": "First Aid in Wartime Conditions",
         "org": "Prometheus",
         "meta": "Certificate",
         "featured": false
@@ -153,7 +178,7 @@
   },
   "contact": {
     "title": "Let's Connect",
-    "lead": "Open for English training collaborations, EdTech projects, and professional language programs.",
+    "lead": "Open for adult English training, EdTech collaborations, and custom learning programs.",
     "email": "Email",
     "telegram": "Telegram",
     "phone": "Phone",

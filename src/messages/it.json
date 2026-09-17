@@ -10,7 +10,7 @@
   "hero": {
     "role": "Formatrice di inglese e creatrice EdTech",
     "secondaryRole": "Anche sviluppatrice Frontend / Full-Stack",
-    "subtitle": "Aiuto adulti e team a parlare inglese con fluidita grazie a sistemi di apprendimento su misura, piattaforme interattive e pratica conversazionale reale.",
+    "subtitle": "Insegno inglese agli adulti (A1–A2) con programmi individuali, piattaforme interattive e pratica conversazionale concreta.",
     "ctaPrimary": "Scopri corsi / piattaforma",
     "ctaSecondary": "Contattami"
   },
@@ -18,16 +18,41 @@
     "title": "Chi sono",
     "lead": "Sono appassionata dell'insegnamento dell'inglese e di metodologie moderne orientate al parlato, che aiutano gli adulti a guadagnare vera sicurezza.",
     "p1": "Il mio percorso unisce l'educazione linguistica a un background tecnico da sviluppatrice Full-Stack — cosi posso creare aule digitali e esperienze formative personali, chiare ed efficaci.",
-    "p2": "Oggi mi concentro sull'inglese professionale per ruoli reali: hospitality, sport, servizi e barbering — vocabolario e scenari che le persone usano davvero al lavoro.",
+    "p2": "Al momento insegno inglese agli adulti (A1–A2) con programmi individuali. Il mio caso pratico attuale e un corso di inglese per un barbiere — lavoro con clienti stranieri, lessico di servizio e dialoghi reali. Grazie alla mia piattaforma e metodologia posso adattare con flessibilita i materiali a qualsiasi altra professione o ambito di servizi.",
     "highlights": {
       "certified": "Certificata B2 Upper-Intermediate (Green Forest, Grade A)",
       "tech": "Sviluppatrice Full-Stack di piattaforme EdTech personalizzate",
-      "focus": "Inglese professionale per hospitality, sport e servizi"
+      "focus": "Caso attuale: inglese per un barbiere (clienti stranieri e dialoghi di servizio)"
+    },
+    "interests": {
+      "title": "Oltre insegnamento e codice",
+      "items": [
+        {
+          "tag": "Specialty Coffee",
+          "desc": "Adoro il caffe: prepararlo (esperienza professionale da barista) e degustarlo."
+        },
+        {
+          "tag": "Reading & Books",
+          "desc": "Leggo continuamente ed esploro idee nuove."
+        },
+        {
+          "tag": "Mountains & Hiking",
+          "desc": "Escursioni, trekking e percorsi di montagna."
+        },
+        {
+          "tag": "Fitness & Sport",
+          "desc": "Allenamento regolare, corsa e movimento attivo."
+        },
+        {
+          "tag": "Good Food & Cooking",
+          "desc": "Amo il buon cibo e gli esperimenti in cucina."
+        }
+      ]
     }
   },
   "experience": {
     "title": "Esperienza & EdTech",
-    "lead": "Piattaforme digitali personalizzate, metodologia speaking-first e inglese professionale per hospitality, sport e servizi.",
+    "lead": "Piattaforme digitali personalizzate, metodologia speaking-first e programmi individuali di inglese per adulti (A1–A2).",
     "items": [
       {
         "title": "Metodologia speaking-first",
@@ -38,8 +63,8 @@
         "desc": "Roadmap interattive, vocabolario con audio/IPA, esercizi di grammatica e monitoraggio dei progressi."
       },
       {
-        "title": "Inglese settoriale",
-        "desc": "Curricula adattati per hospitality, team sportivi, servizi e professionisti del barbering."
+        "title": "Inglese adattato alla professione",
+        "desc": "Caso pratico attuale: inglese per un barbiere. Con la mia piattaforma e metodo, i materiali si possono adattare ad altre professioni e ambiti di servizi."
       }
     ]
   },
@@ -57,10 +82,10 @@
       {
         "title": "Insegnamento & pedagogia",
         "items": [
-          "Formazione livelli A1–B1",
+          "Formazione adulti A1–A2",
           "Drill speaking-first",
           "Design di curriculum personalizzati",
-          "Adattamento del vocabolario professionale"
+          "Adattamento del lessico alla professione"
         ]
       },
       {
@@ -103,13 +128,13 @@
       {
         "title": "Frontend Development",
         "org": "Beetroot Academy",
-        "meta": "2024",
+        "meta": "2025",
         "featured": true
       },
       {
-        "title": "Full-Stack / IT Bootcamp",
+        "title": "Corso Fullstack Developer",
         "org": "GoIT",
-        "meta": "Certificato",
+        "meta": "Completato · 12/02/2025",
         "featured": false
       },
       {
@@ -119,7 +144,7 @@
         "featured": false
       },
       {
-        "title": "Inglese medicale / primo soccorso",
+        "title": "Primo soccorso in condizioni di guerra",
         "org": "Prometheus",
         "meta": "Certificato",
         "featured": false
@@ -153,7 +178,7 @@
   },
   "contact": {
     "title": "Restiamo in contatto",
-    "lead": "Aperta a collaborazioni di formazione inglese, progetti EdTech e programmi linguistici professionali.",
+    "lead": "Aperta a collaborazioni di formazione inglese per adulti, progetti EdTech e programmi di apprendimento su misura.",
     "email": "Email",
     "telegram": "Telegram",
     "phone": "Telefono",
