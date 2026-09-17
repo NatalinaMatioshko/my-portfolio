@@ -4,7 +4,8 @@
     "experience": "Experience & EdTech",
     "projects": "Projects",
     "skills": "Skills",
-    "contact": "Contact"
+    "contact": "Contact",
+    "certificates": "Certificates"
   },
   "hero": {
     "role": "English Language Trainer & EdTech Creator",
@@ -44,22 +45,10 @@
   },
   "projects": {
     "title": "Featured Projects",
-    "lead": "EdTech platforms and full-stack products that turn learning into an interactive experience.",
+    "lead": "Selected apps and platforms from my GitHub — EdTech, coffee tools, dashboards, and more.",
     "featured": "Flagship",
     "demo": "Live Demo",
-    "view": "View Project",
-    "items": [
-      {
-        "name": "English Simple Trainer",
-        "desc": "Custom interactive SPA teaching platform with roadmaps, vocabulary with audio/IPA, grammar drills, homework check & progress tracking.",
-        "tech": ["React", "Next.js", "Firebase", "Tailwind CSS"]
-      },
-      {
-        "name": "Tugonn",
-        "desc": "International collaborative web application built as a full-stack product for teams across borders.",
-        "tech": ["Next.js", "TypeScript", "Node.js", "MongoDB"]
-      }
-    ]
+    "view": "View Project"
   },
   "skills": {
     "title": "Skills & Tech Stack",
@@ -67,30 +56,98 @@
     "categories": [
       {
         "title": "Teaching & Pedagogy",
-        "items": ["A1–B1 Level Training", "Speaking-first Drills", "Custom Curriculum Design", "Professional Vocabulary Adaptation"]
+        "items": [
+          "A1–B1 Level Training",
+          "Speaking-first Drills",
+          "Custom Curriculum Design",
+          "Professional Vocabulary Adaptation"
+        ]
       },
       {
         "title": "EdTech & Development",
-        "items": ["React", "Next.js", "TypeScript", "JavaScript", "Tailwind CSS", "Firebase", "REST APIs", "Git / GitHub"]
+        "items": [
+          "React",
+          "Next.js",
+          "TypeScript",
+          "JavaScript",
+          "Tailwind CSS",
+          "Firebase",
+          "REST APIs",
+          "Git / GitHub"
+        ]
       },
       {
         "title": "Languages",
-        "items": ["Ukrainian — Native", "English — B2 Upper-Intermediate", "Italian — Beginner", "Japanese — Beginner"]
+        "items": [
+          "Ukrainian — Native",
+          "English — B2 Upper-Intermediate",
+          "Italian — Beginner",
+          "Japanese — Beginner"
+        ]
       }
     ]
   },
   "certificates": {
     "title": "Certificates & Education",
+    "lead": "Verified learning path across English, frontend development, and digital skills — with downloadable PDFs.",
+    "viewPdf": "View PDF",
+    "educationTitle": "Education",
+    "featured": "Featured",
     "items": [
       {
         "title": "Upper-Intermediate B2 English Course",
         "org": "Green Forest",
-        "meta": "Grade A · 2025"
+        "meta": "Grade A · 2025",
+        "featured": true
       },
       {
         "title": "Frontend Development",
         "org": "Beetroot Academy",
-        "meta": "2024"
+        "meta": "2024",
+        "featured": true
+      },
+      {
+        "title": "Full-Stack / IT Bootcamp",
+        "org": "GoIT",
+        "meta": "Certificate",
+        "featured": false
+      },
+      {
+        "title": "English Course",
+        "org": "Prometheus",
+        "meta": "Certificate",
+        "featured": false
+      },
+      {
+        "title": "Medical English / First Aid Course",
+        "org": "Prometheus",
+        "meta": "Certificate",
+        "featured": false
+      },
+      {
+        "title": "AI for Developers",
+        "org": "DataCamp",
+        "meta": "Certificate",
+        "featured": false
+      },
+      {
+        "title": "Introduction to SQL",
+        "org": "DataCamp",
+        "meta": "Certificate",
+        "featured": false
+      },
+      {
+        "title": "Intermediate SQL",
+        "org": "DataCamp",
+        "meta": "Certificate",
+        "featured": false
+      }
+    ],
+    "education": [
+      {
+        "title": "Computer Dialing Operator and Accountant for Registration of Accounting Data",
+        "org": "Kyiv Professional Lyceum of Construction and Municipal Economy",
+        "meta": "Skilled Worker Degree · 2010 – 2012"
       }
     ]
   },
@@ -101,7 +158,9 @@
     "telegram": "Telegram",
     "phone": "Phone",
     "github": "GitHub",
-    "cta": "Send a message"
+    "cta": "Send a message",
+    "linkedin": "LinkedIn",
+    "location": "Location"
   },
   "footer": {
     "rights": "All rights reserved."

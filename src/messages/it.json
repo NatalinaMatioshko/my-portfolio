@@ -4,7 +4,8 @@
     "experience": "Esperienza & EdTech",
     "projects": "Progetti",
     "skills": "Competenze",
-    "contact": "Contatti"
+    "contact": "Contatti",
+    "certificates": "Certificati"
   },
   "hero": {
     "role": "Formatrice di inglese e creatrice EdTech",
@@ -44,32 +45,10 @@
   },
   "projects": {
     "title": "Progetti in evidenza",
-    "lead": "Piattaforme EdTech e prodotti full-stack che trasformano l'apprendimento in un'esperienza interattiva.",
+    "lead": "App e piattaforme selezionate dal mio GitHub — EdTech, tool per il caffè, dashboard e altro.",
     "featured": "Flagship",
     "demo": "Demo live",
-    "view": "Vedi progetto",
-    "items": [
-      {
-        "name": "English Simple Trainer",
-        "desc": "Piattaforma SPA interattiva con roadmap, vocabolario con audio/IPA, esercizi di grammatica, controllo compiti e tracking dei progressi.",
-        "tech": [
-          "React",
-          "Next.js",
-          "Firebase",
-          "Tailwind CSS"
-        ]
-      },
-      {
-        "name": "Tugonn",
-        "desc": "Applicazione web collaborativa internazionale costruita come prodotto full-stack per team internazionali.",
-        "tech": [
-          "Next.js",
-          "TypeScript",
-          "Node.js",
-          "MongoDB"
-        ]
-      }
-    ]
+    "view": "Vedi progetto"
   },
   "skills": {
     "title": "Competenze & stack",
@@ -110,16 +89,65 @@
   },
   "certificates": {
     "title": "Certificati & formazione",
+    "lead": "Percorso di apprendimento verificato in inglese, frontend e competenze digitali — con PDF scaricabili.",
+    "viewPdf": "Apri PDF",
+    "educationTitle": "Istruzione",
+    "featured": "In evidenza",
     "items": [
       {
         "title": "Upper-Intermediate B2 English Course",
         "org": "Green Forest",
-        "meta": "Grade A · 2025"
+        "meta": "Grade A · 2025",
+        "featured": true
       },
       {
         "title": "Frontend Development",
         "org": "Beetroot Academy",
-        "meta": "2024"
+        "meta": "2024",
+        "featured": true
+      },
+      {
+        "title": "Full-Stack / IT Bootcamp",
+        "org": "GoIT",
+        "meta": "Certificato",
+        "featured": false
+      },
+      {
+        "title": "Corso di inglese",
+        "org": "Prometheus",
+        "meta": "Certificato",
+        "featured": false
+      },
+      {
+        "title": "Inglese medicale / primo soccorso",
+        "org": "Prometheus",
+        "meta": "Certificato",
+        "featured": false
+      },
+      {
+        "title": "AI for Developers",
+        "org": "DataCamp",
+        "meta": "Certificato",
+        "featured": false
+      },
+      {
+        "title": "Introduction to SQL",
+        "org": "DataCamp",
+        "meta": "Certificato",
+        "featured": false
+      },
+      {
+        "title": "Intermediate SQL",
+        "org": "DataCamp",
+        "meta": "Certificato",
+        "featured": false
+      }
+    ],
+    "education": [
+      {
+        "title": "Computer Dialing Operator and Accountant for Registration of Accounting Data",
+        "org": "Kyiv Professional Lyceum of Construction and Municipal Economy",
+        "meta": "Skilled Worker Degree · 2010 – 2012"
       }
     ]
   },
@@ -130,7 +158,9 @@
     "telegram": "Telegram",
     "phone": "Telefono",
     "github": "GitHub",
-    "cta": "Invia un messaggio"
+    "cta": "Invia un messaggio",
+    "linkedin": "LinkedIn",
+    "location": "Località"
   },
   "footer": {
     "rights": "Tutti i diritti riservati."

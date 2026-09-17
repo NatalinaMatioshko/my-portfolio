@@ -6,6 +6,7 @@ export type Messages = {
     experience: string;
     projects: string;
     skills: string;
+    certificates: string;
     contact: string;
   };
   hero: {
@@ -37,7 +38,6 @@ export type Messages = {
     featured: string;
     demo: string;
     view: string;
-    items: { name: string; desc: string; tech: string[] }[];
   };
   skills: {
     title: string;
@@ -46,7 +46,12 @@ export type Messages = {
   };
   certificates: {
     title: string;
-    items: { title: string; org: string; meta: string }[];
+    lead: string;
+    viewPdf: string;
+    educationTitle: string;
+    featured: string;
+    items: { title: string; org: string; meta: string; featured?: boolean }[];
+    education: { title: string; org: string; meta: string }[];
   };
   contact: {
     title: string;
@@ -55,6 +60,8 @@ export type Messages = {
     telegram: string;
     phone: string;
     github: string;
+    linkedin: string;
+    location: string;
     cta: string;
   };
   footer: {

@@ -4,7 +4,8 @@
     "experience": "Досвід і EdTech",
     "projects": "Проєкти",
     "skills": "Навички",
-    "contact": "Контакти"
+    "contact": "Контакти",
+    "certificates": "Сертифікати"
   },
   "hero": {
     "role": "Викладачка англійської та EdTech-креаторка",
@@ -44,32 +45,10 @@
   },
   "projects": {
     "title": "Обрані проєкти",
-    "lead": "EdTech-платформи та full-stack продукти, що перетворюють навчання на інтерактивний досвід.",
+    "lead": "Обрані додатки та платформи з мого GitHub — EdTech, кавові інструменти, дашборди та інше.",
     "featured": "Флагман",
     "demo": "Демо",
-    "view": "Переглянути",
-    "items": [
-      {
-        "name": "English Simple Trainer",
-        "desc": "Кастомна інтерактивна SPA-платформа з роадмапами, словником з аудіо/IPA, граматичними вправами, перевіркою ДЗ і трекінгом прогресу.",
-        "tech": [
-          "React",
-          "Next.js",
-          "Firebase",
-          "Tailwind CSS"
-        ]
-      },
-      {
-        "name": "Tugonn",
-        "desc": "Міжнародний collaborative веб-додаток, створений як full-stack продукт для команд з різних країн.",
-        "tech": [
-          "Next.js",
-          "TypeScript",
-          "Node.js",
-          "MongoDB"
-        ]
-      }
-    ]
+    "view": "Переглянути"
   },
   "skills": {
     "title": "Навички та стек",
@@ -110,16 +89,65 @@
   },
   "certificates": {
     "title": "Сертифікати та освіта",
+    "lead": "Підтверджений шлях навчання: англійська, frontend-розробка та цифрові навички — з PDF для завантаження.",
+    "viewPdf": "Відкрити PDF",
+    "educationTitle": "Освіта",
+    "featured": "Обране",
     "items": [
       {
         "title": "Upper-Intermediate B2 English Course",
         "org": "Green Forest",
-        "meta": "Grade A · 2025"
+        "meta": "Grade A · 2025",
+        "featured": true
       },
       {
         "title": "Frontend Development",
         "org": "Beetroot Academy",
-        "meta": "2024"
+        "meta": "2024",
+        "featured": true
+      },
+      {
+        "title": "Full-Stack / IT Bootcamp",
+        "org": "GoIT",
+        "meta": "Сертифікат",
+        "featured": false
+      },
+      {
+        "title": "Курс англійської мови",
+        "org": "Prometheus",
+        "meta": "Сертифікат",
+        "featured": false
+      },
+      {
+        "title": "Медична англійська / перша допомога",
+        "org": "Prometheus",
+        "meta": "Сертифікат",
+        "featured": false
+      },
+      {
+        "title": "AI for Developers",
+        "org": "DataCamp",
+        "meta": "Сертифікат",
+        "featured": false
+      },
+      {
+        "title": "Introduction to SQL",
+        "org": "DataCamp",
+        "meta": "Сертифікат",
+        "featured": false
+      },
+      {
+        "title": "Intermediate SQL",
+        "org": "DataCamp",
+        "meta": "Сертифікат",
+        "featured": false
+      }
+    ],
+    "education": [
+      {
+        "title": "Оператор комп'ютерного набору та обліковець з реєстрації бухгалтерських даних",
+        "org": "Київський професійний ліцей будівництва і комунального господарства",
+        "meta": "Кваліфікований робітник · 2010 – 2012"
       }
     ]
   },
@@ -130,7 +158,9 @@
     "telegram": "Telegram",
     "phone": "Телефон",
     "github": "GitHub",
-    "cta": "Написати"
+    "cta": "Написати",
+    "linkedin": "LinkedIn",
+    "location": "Локація"
   },
   "footer": {
     "rights": "Усі права захищено."

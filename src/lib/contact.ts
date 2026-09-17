@@ -3,10 +3,20 @@ export const SITE = {
   email: "ma.nataliem@gmail.com",
   phone: "+380995674368",
   phoneHref: "tel:+380995674368",
-  telegram: "https://t.me/",
-  github: "https://github.com/",
-  projects: {
-    englishSimpleTrainer: "https://english-simple-trainer.vercel.app",
-    tugonn: "https://tugonn.vercel.app",
-  },
+  location: "Kyiv, Ukraine",
+  telegram: "https://t.me/plutosnero",
+  telegramHandle: "@plutosnero",
+  github: "https://github.com/NatalinaMatioshko",
+  linkedin: "https://www.linkedin.com/in/natalia-matioshko/",
 } as const;
+
+export const CERTIFICATE_PDFS = [
+  "/certificates/green-forest-b2.pdf",
+  "/certificates/beetroot-frontend.pdf",
+  "/certificates/goit.pdf",
+  "/certificates/prometheus-english.pdf",
+  "/certificates/prometheus-medical.pdf",
+  "/certificates/datacamp-ai-for-dev.pdf",
+  "/certificates/datacamp-sql-intro.pdf",
+  "/certificates/datacamp-sql-intermediate.pdf",
+] as const;
